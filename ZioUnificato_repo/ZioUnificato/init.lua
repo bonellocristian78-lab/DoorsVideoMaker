@@ -84,7 +84,7 @@ local BADGES = {
 -- Modifica REPO_BASE con il tuo repo raw base (poi commit + push)
 -- ══════════════════════════════════════════════════════════════════
 
-local REPO_BASE = "https://raw.githubusercontent.com/Larpbase/ZioUnificato/main"
+local REPO_BASE = "local REPO_BASE = "https://raw.githubusercontent.com/bonellocristian78-lab/DoorsVideoMaker/main/ZioUnificato_repo/ZioUnificato""
 
 local LOCALE_URLS = {
     it = REPO_BASE .. "/lang/it.lua",
